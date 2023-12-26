@@ -1,0 +1,4 @@
+"D:\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S E:\C++\data_structure -B E:\C++\data_structure\cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: E:/C++/data_structure/cmake-build-debug

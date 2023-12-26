@@ -4,3 +4,5 @@ project(data_structure)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(data_structure main.cpp)
+
+add_executable(main main.cpp)
